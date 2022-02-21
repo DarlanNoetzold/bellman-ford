@@ -1,0 +1,10 @@
+s,a,b,c,d,t
+s a 5
+s c -2
+a b 1
+c d 3
+c a 2
+b c 2
+b d 7
+b t 3
+d t 10

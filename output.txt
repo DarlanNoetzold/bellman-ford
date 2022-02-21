@@ -1,0 +1,7 @@
+state | pai | buscaCusto
+a |  0
+b | e -22
+c | a -4
+d | c -7
+e | b -20
+Existe um ciclo negativo
