@@ -36,7 +36,7 @@ void pegarGrafo(){
     int i, j, l, s;
     FILE *InputFile;
 
-    InputFile = fopen("input.txt", "r");
+    InputFile = fopen("inputN.txt", "r");
     fgets(aux, 255, InputFile);
     j = 0;
     s = 0;
